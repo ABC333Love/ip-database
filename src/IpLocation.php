@@ -7,7 +7,7 @@
  * @copyright 2005 CoolCode.CN，2012-2017 .com
  */
 
-namespace abc333love\Ip;
+namespace ABC333Love\Ip;
 
 /**
  *

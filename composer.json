@@ -27,7 +27,7 @@
   },
   "autoload": {
     "psr-4": {
-      "\\abc333love\\Ip\\": "src/"
+      "\\ABC333Love\\Ip\\": "src/"
     }
   }
 }

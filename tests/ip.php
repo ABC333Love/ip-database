@@ -7,7 +7,7 @@
 //you do not need to do this if use composer!
 require dirname(__DIR__) . '/../src/IpLocation.php';
 
-use abc333love\Ip\IpLocation;
+use ABC333Love\Ip\IpLocation;
 
 $ips = [
     "172.217.25.14",//美国

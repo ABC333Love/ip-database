@@ -25,7 +25,7 @@ composer require 'abc333love/ip-database:dev-master'
 //根据实际情况，基本上用框架（如 Laravel）的话不需要手动引入
 //require 'vendor/autoload.php';
 
-use abc333love\Ip\IpLocation;
+use ABC333Love\Ip\IpLocation;
 
 //支持自定义文件路径
 $qqwry_filepath = '/abspath/qqwry.dat';
